@@ -1,3 +1,3 @@
-ciudad1: 0
-ciudad2: 1
-ciudad3: 0
+aguachica
+washington
+russia
